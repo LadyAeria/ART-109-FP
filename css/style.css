@@ -1,0 +1,44 @@
+canvas{
+    position: fixed;
+    color: aquamarine;
+    background-size: cover;
+    top: 0;
+    left: 0;
+}
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image2 {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+  }
+  .image3 {
+    position: absolute;
+    top: 30px;
+    left: -400px;
+  }
+  .image4 {
+    position: absolute;
+    top: 30px;
+    left: 1000px;
+  }
+  .image5 {
+    position: absolute;
+    top: 30px;
+    left: 1500px;
+  }
+
+main{
+    position: absolute;
+    color: rgb(0, 0, 0);
+}
+
